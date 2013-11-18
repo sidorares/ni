@@ -1,0 +1,27 @@
+{
+  "name": "ni",
+  "version": "0.0.1",
+  "description": "script to simplify node-inspector debugger workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/sidorares/ni.git"
+  },
+  "keywords": [
+    "node-inspector",
+    "debugger"
+  ],
+  "bin": {
+    "ni": "./bin/ni.js"
+  },
+  "author": "Andrey Sidorov <sidorares@yandex.com>",
+  "license": "MIT",
+  "dependencies": {
+    "launcher": "0.0.1",
+    "node-inspector": "~0.6.1",
+    "browser-launcher": "~0.3.4"
+  }
+}
