@@ -1,6 +1,6 @@
 {
   "name": "ni",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "script to simplify node-inspector debugger workflow",
   "main": "index.js",
   "scripts": {
