@@ -7,6 +7,8 @@ node-inspector server and browser with UI (using [browser-launcher](https://gith
 Installation
 ============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/sidorares/ni.svg)](https://greenkeeper.io/)
+
     npm install -g ni
     
 
