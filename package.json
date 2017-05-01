@@ -21,7 +21,7 @@
   "license": "MIT",
   "dependencies": {
     "launcher": "0.0.1",
-    "node-inspector": "~0.6.1",
-    "browser-launcher": "~0.3.4"
+    "node-inspector": "~1.1.1",
+    "browser-launcher": "~1.0.0"
   }
 }
